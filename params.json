@@ -1,6 +1,6 @@
 {
   "name": "Serie de fourrier",
   "tagline": "Representação da Série de Fourrier Trigonométrica para disciplina de Análise de Sinais e Sistemas Lineares",
-  "body": "> https://anaconda-gabrielucascp.c9users.io\r\n[pkdw](https://anaconda-gabrielucascp.c9users.io)",
+  "body": "# Serie-de-Fourrier-\r\nRelatório sobre a representação de dois sinais periódicos na Série de Fourrier Trigonométrica. O documento é no formato ipynb(notebook), o qual permite a visualização de texto, código e gráficos gerados. Este é um trabalho para a disciplina de Análise de Sinais e Sistemas Lineares.\r\nPágina html: http://gabrielucascp.github.io/Serie-de-Fourrier-\r\n[pko](https://anaconda-gabrielucascp.c9users.io)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
